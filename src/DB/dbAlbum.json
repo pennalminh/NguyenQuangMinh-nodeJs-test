@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f2e66382-ece1-4ff0-8a3c-04f5eab86fe9",
+    "name": "Album 2024",
+    "year": 2023,
+    "artistId": "f2e66382-ece1-4ff0-8a3c-04f5eab86fe5"
+  },
+  {
+    "id": "f2e66382-ece1-4ff0-8a3c-04f5eab86fa0",
+    "name": "Album 1",
+    "year": 2022,
+    "artistId": "f2e66382-ece1-4ff0-8a3c-04f5eab86fe5"
+  },
+  {
+    "id": "f2e66382-ece1-4ff0-8a3c-04f5eab86fa1",
+    "name": "Album 2",
+    "year": 2021,
+    "artistId": "f2e66382-ece1-4ff0-8a3c-04f5eab86fe7"
+  },
+  {
+    "id": "f2e66382-ece1-4ff0-8a3c-04f5eab86fa2",
+    "name": "Album 3",
+    "year": 2020,
+    "artistId": "f2e66382-ece1-4ff0-8a3c-04f5eab86fe6"
+  }
+]
